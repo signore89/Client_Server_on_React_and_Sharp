@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "P:\\\u0443\u0447\u0435\u0431\u0430\\\u0420\u041F\u041E\\C#\\ASP.NET Core\\other\\ServerForReact\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{402D0472-6D19-4D04-9037-7028CE19C52C}|ServerForReact.csproj|p:\\\u0443\u0447\u0435\u0431\u0430\\\u0440\u043F\u043E\\c#\\asp.net core\\other\\serverforreact\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{402D0472-6D19-4D04-9037-7028CE19C52C}|ServerForReact.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402D0472-6D19-4D04-9037-7028CE19C52C}|ServerForReact.csproj|p:\\\u0443\u0447\u0435\u0431\u0430\\\u0440\u043F\u043E\\c#\\asp.net core\\other\\serverforreact\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{402D0472-6D19-4D04-9037-7028CE19C52C}|ServerForReact.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 290,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "P:\\\u0443\u0447\u0435\u0431\u0430\\\u0420\u041F\u041E\\C#\\ASP.NET Core\\other\\ServerForReact\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "P:\\\u0443\u0447\u0435\u0431\u0430\\\u0420\u041F\u041E\\C#\\ASP.NET Core\\other\\ServerForReact\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T13:12:36.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "P:\\\u0443\u0447\u0435\u0431\u0430\\\u0420\u041F\u041E\\C#\\ASP.NET Core\\other\\ServerForReact\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "P:\\\u0443\u0447\u0435\u0431\u0430\\\u0420\u041F\u041E\\C#\\ASP.NET Core\\other\\ServerForReact\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T13:10:50.697Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
