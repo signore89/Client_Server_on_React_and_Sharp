@@ -32,6 +32,7 @@ namespace ServerForReact.Controllers
         [HttpGet]
         public IEnumerable<Product> GetAll()
         {
+            Console.WriteLine("запрос получен");
             return productRepository.GetAll();
         }
         [HttpGet("{skip}/{take}")] 
