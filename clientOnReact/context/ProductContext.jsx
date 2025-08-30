@@ -13,7 +13,6 @@ function ProductProvider({children}) {
 
     //получение всех продуктов
     const getProducts = async () => {
-        console.log("выполняется");
         const response = await fetch("https://localhost:7221/Product", {
             // mode: 'no-cors',
             method: "GET",
@@ -49,18 +48,15 @@ function ProductProvider({children}) {
     //удаление продукта по id
     const deleteProduct = async(id) => {
         const response = await fetch(
-            `http://localhost:8888/Product/${id}`,
+            `https://localhost:7221/Product/${id}`,
             {
                 method: "DELETE",
-                headers: {
-                    "Content-Type": "application/json",
-                    Accept: "application/json",
+                 headers: {
+                "Content-Type": "application/json",
                 },
             }
         );
         if (response.ok) {
-            const data = await response.json();
-            console.log(data.message);
             getProducts();
         }
     };

@@ -13,7 +13,7 @@ namespace ServerForReact.Controllers
         {
             productRepository.Add(product);
         }
-        [HttpDelete]
+        [HttpDelete("{id}")]
         public void Remove(int id)
         {
             productRepository.Remove(id);
